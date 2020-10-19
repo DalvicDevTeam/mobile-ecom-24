@@ -1,7 +1,7 @@
 # Mobile-Ecom-24
 
 
-[![GitHub forks](https://img.shields.io/github/forks/DalvicDevTeam/church-booking)]https://github.com/DalvicDevTeam/mobile-ecom-24/network)
+[![GitHub forks](https://img.shields.io/github/forks/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/network)
 [![GitHub stars](https://img.shields.io/github/stars/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24stargazers)
 
 [![GitHub issues](https://img.shields.io/github/issues/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/issues)
