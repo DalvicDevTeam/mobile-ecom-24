@@ -1,10 +1,10 @@
-# Mobile-Ecom-24
+# Mobile-Ecom-24/shopeIt
 
 
-[![GitHub forks](https://img.shields.io/github/forks/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/network)
-[![GitHub stars](https://img.shields.io/github/stars/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DalvicDevTeam/mobile-ecom-24)](https://github.com/DalvicDevTeam/mobile-ecom-24/network)
+[![GitHub stars](https://img.shields.io/github/stars/DalvicDevTeam/mobile-ecom-24)](https://github.com/DalvicDevTeam/mobile-ecom-24/stargazers)
 
-[![GitHub issues](https://img.shields.io/github/issues/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/issues)
+[![GitHub issues](https://img.shields.io/github/issues/DalvicDevTeam/mobile-ecom-24)](https://github.com/DalvicDevTeam/mobile-ecom-24/issues)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -15,7 +15,7 @@
 
 ## 📌 Introduction
 
-moblie-ecom-24.
+shopeIt is a mobile app that allows its users to sell, buy, and swap secondhand clothing items and accessories.
 
 ## ⭐ How to get started?
 
