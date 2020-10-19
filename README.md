@@ -2,10 +2,9 @@
 
 
 [![GitHub forks](https://img.shields.io/github/forks/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/network)
-[![GitHub stars](https://img.shields.io/github/stars/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/stargazers)
 
 [![GitHub issues](https://img.shields.io/github/issues/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/issues)
-[![GitHub license](https://img.shields.io/github/license/DalvicDevTeam/church-booking)](https://github.com/DalvicDevTeam/mobile-ecom-24/church-booking)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
