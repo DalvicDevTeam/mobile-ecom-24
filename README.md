@@ -1,4 +1,5 @@
-# Mobile-Ecom-24/shopeIt
+# Mobile-Ecom-24
+> shopeIt
 
 
 [![GitHub forks](https://img.shields.io/github/forks/DalvicDevTeam/mobile-ecom-24)](https://github.com/DalvicDevTeam/mobile-ecom-24/network)
@@ -29,7 +30,7 @@ You can refer to the following articles on the basics of Git and Github and also
 ## 💥 How to Contribute?
 [![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ```
-- Take a look at the Existing [Issues](https://github.com/DalvicDevTeam/church-booking/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/DalvicDevTeam/mobile-ecom-24/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
